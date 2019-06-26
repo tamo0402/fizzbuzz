@@ -1,7 +1,7 @@
 <?php
 
 namespace CodeIQ;
-
+4回目の変更
 class FizzBuzzSpecification {
 
 //     private $message;
