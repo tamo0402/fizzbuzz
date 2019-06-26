@@ -1,6 +1,8 @@
 <?php
 namespace CodeIQ;
 
+1回目の変更
+
 require_once 'FizzBuzzSpecification.php';
 require_once 'FizzBuzzApplication.php';
 
