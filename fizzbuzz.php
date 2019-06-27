@@ -1,16 +1,15 @@
 <?php
 namespace CodeIQ;
 
-1回目の変更
-2回目の変更
 require_once 'FizzBuzzSpecification.php';
 require_once 'FizzBuzzApplication.php';
 
-$app = new FizzBuzzApplication();
-$app->addSpecAndMessage(new FizzBuzzSpecification(15), 'fizzbuzz');
-$app->addSpecAndMessage(new FizzBuzzSpecification(3), 'fizz');
-$app->addSpecAndMessage(new FizzBuzzSpecification(5), 'buzz');
 
-$data = range(1,30);
-
-$app->run($data);
+マスターの変更！！
+マスターの変更！！
+マスターの変更！！
+マスターの変更！！
+マスターの変更！！
+マスターの変更！！
+マスターの変更！！
+マスターの変更！！
